@@ -6,8 +6,8 @@
     <EnableSSL>true</EnableSSL>
     <Login></Login>
     <Password></Password>
-    <TargetEmailFrom>cccpmade@gmail.com</TargetEmailFrom>
-    <TargetEmail>cccpmade@gmail.com</TargetEmail>
+    <TargetEmailFrom></TargetEmailFrom>
+    <TargetEmail></TargetEmail>
     <EmailTitle>Новое с АВИТО</EmailTitle>
   </EmailSettings>
   <SectionsList>
