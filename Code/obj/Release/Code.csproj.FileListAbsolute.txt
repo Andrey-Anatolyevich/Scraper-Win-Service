@@ -1,0 +1,62 @@
+C:\Users\Andrey\Desktop\Parser\Code\bin\Release\Code.dll
+C:\Users\Andrey\Desktop\Parser\Code\bin\Release\Code.pdb
+C:\Users\Andrey\Desktop\Parser\Code\bin\Release\HtmlAgilityPack.dll
+C:\Users\Andrey\Desktop\Parser\Code\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Andrey\Desktop\Parser\Code\bin\Release\HtmlAgilityPack.xml
+C:\Users\Andrey\Desktop\Parser\Code\obj\Release\Code.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Desktop\Parser\Code\obj\Release\Code.dll
+C:\Users\Andrey\Desktop\Parser\Code\obj\Release\Code.pdb
+C:\Users\Andrey\Desktop\Parser Project\Code\obj\Release\Code.dll
+C:\Users\Andrey\Desktop\Parser Project\Code\obj\Release\Code.pdb
+C:\Users\Andrey\Desktop\Parser Project\Code\bin\Release\Code.dll
+C:\Users\Andrey\Desktop\Parser Project\Code\bin\Release\Code.pdb
+C:\Users\Andrey\Desktop\Parser Project\Code\obj\Release\Code.csprojResolveAssemblyReference.cache
+C:\Users\Andrey\Desktop\Parser Project\Code\bin\Release\IParserPlugin.dll
+C:\Users\Andrey\Desktop\Parser Project\Code\bin\Release\IParserPlugin.pdb
+C:\Users\Andrey\Desktop\Parser Project\Code\bin\Release\Settings.xml
+C:\Users\cccpm\Desktop\Parser Project\Code\bin\Release\Settings.xml
+C:\Users\cccpm\Desktop\Parser Project\Code\bin\Release\Code.dll
+C:\Users\cccpm\Desktop\Parser Project\Code\bin\Release\Code.pdb
+C:\Users\cccpm\Desktop\Parser Project\Code\bin\Release\IParserPlugin.dll
+C:\Users\cccpm\Desktop\Parser Project\Code\bin\Release\IParserPlugin.pdb
+C:\Users\cccpm\Desktop\Parser Project\Code\obj\Release\Code.csprojResolveAssemblyReference.cache
+C:\Users\cccpm\Desktop\Parser Project\Code\obj\Release\Code.dll
+C:\Users\cccpm\Desktop\Parser Project\Code\obj\Release\Code.pdb
+C:\Users\Андрей\Desktop\2015.12.19 Parser Project\Code\bin\Release\Settings.xml
+C:\Users\Андрей\Desktop\2015.12.19 Parser Project\Code\bin\Release\Code.dll
+C:\Users\Андрей\Desktop\2015.12.19 Parser Project\Code\bin\Release\Code.pdb
+C:\Users\Андрей\Desktop\2015.12.19 Parser Project\Code\bin\Release\IParserPlugin.dll
+C:\Users\Андрей\Desktop\2015.12.19 Parser Project\Code\bin\Release\IParserPlugin.pdb
+C:\Users\Андрей\Desktop\2015.12.19 Parser Project\Code\obj\Release\Code.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\2015.12.19 Parser Project\Code\obj\Release\Code.dll
+C:\Users\Андрей\Desktop\2015.12.19 Parser Project\Code\obj\Release\Code.pdb
+C:\Users\Андрей\Desktop\2015.12.20+Parser+Project\Code\bin\Release\Settings.xml
+C:\Users\Андрей\Desktop\2015.12.20+Parser+Project\Code\bin\Release\Code.dll
+C:\Users\Андрей\Desktop\2015.12.20+Parser+Project\Code\bin\Release\Code.pdb
+C:\Users\Андрей\Desktop\2015.12.20+Parser+Project\Code\obj\Release\Code.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\2015.12.20+Parser+Project\Code\obj\Release\Code.dll
+C:\Users\Андрей\Desktop\2015.12.20+Parser+Project\Code\obj\Release\Code.pdb
+C:\Users\Андрей\Desktop\2015.12.24 Parser Project\Code\bin\Release\Settings.xml
+C:\Users\Андрей\Desktop\2015.12.24 Parser Project\Code\bin\Release\Code.dll
+C:\Users\Андрей\Desktop\2015.12.24 Parser Project\Code\bin\Release\Code.pdb
+C:\Users\Андрей\Desktop\2015.12.24 Parser Project\Code\obj\Release\Code.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\2015.12.24 Parser Project\Code\obj\Release\Code.dll
+C:\Users\Андрей\Desktop\2015.12.24 Parser Project\Code\obj\Release\Code.pdb
+C:\Users\Андрей\Desktop\2015.12.25 Parser Project\Code\bin\Release\Settings.xml
+C:\Users\Андрей\Desktop\2015.12.25 Parser Project\Code\bin\Release\Code.dll
+C:\Users\Андрей\Desktop\2015.12.25 Parser Project\Code\bin\Release\Code.pdb
+C:\Users\Андрей\Desktop\2015.12.25 Parser Project\Code\obj\Release\Code.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\2015.12.25 Parser Project\Code\obj\Release\Code.dll
+C:\Users\Андрей\Desktop\2015.12.25 Parser Project\Code\obj\Release\Code.pdb
+C:\Users\Андрей\Desktop\2015.12.27 Parser Project\Code\bin\Release\Settings.xml
+C:\Users\Андрей\Desktop\2015.12.27 Parser Project\Code\bin\Release\Code.dll
+C:\Users\Андрей\Desktop\2015.12.27 Parser Project\Code\bin\Release\Code.pdb
+C:\Users\Андрей\Desktop\2015.12.27 Parser Project\Code\obj\Release\Code.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\2015.12.27 Parser Project\Code\obj\Release\Code.dll
+C:\Users\Андрей\Desktop\2015.12.27 Parser Project\Code\obj\Release\Code.pdb
+C:\Dev\2015.12.27 Parser Project\Code\bin\Release\Settings.xml
+C:\Dev\2015.12.27 Parser Project\Code\bin\Release\Code.dll
+C:\Dev\2015.12.27 Parser Project\Code\bin\Release\Code.pdb
+C:\Dev\2015.12.27 Parser Project\Code\obj\Release\Code.csprojResolveAssemblyReference.cache
+C:\Dev\2015.12.27 Parser Project\Code\obj\Release\Code.dll
+C:\Dev\2015.12.27 Parser Project\Code\obj\Release\Code.pdb

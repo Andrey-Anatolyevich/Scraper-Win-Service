@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ParserModelStoreContainer" CdmEntityContainer="ParserSql">
+    <EntitySetMapping Name="Adds">
+      <EntityTypeMapping TypeName="ParserModel.Add">
+        <MappingFragment StoreEntitySet="Adds">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="UrlParent" ColumnName="UrlParent" />
+          <ScalarProperty Name="Url" ColumnName="Url" />
+          <ScalarProperty Name="AddID" ColumnName="AddID" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Text" ColumnName="Text" />
+          <ScalarProperty Name="IsProcessed" ColumnName="IsProcessed" />
+          <ScalarProperty Name="IsMailed" ColumnName="IsMailed" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="InsertDt" ColumnName="InsertDt" />
+          <ScalarProperty Name="UpdateDt" ColumnName="UpdateDt" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Images">
+      <EntityTypeMapping TypeName="ParserModel.Image">
+        <MappingFragment StoreEntitySet="Images">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="AddID" ColumnName="AddID" />
+          <ScalarProperty Name="Url" ColumnName="Url" />
+          <ScalarProperty Name="InsertDt" ColumnName="InsertDt" />
+          <ScalarProperty Name="UpdateDt" ColumnName="UpdateDt" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

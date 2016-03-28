@@ -1,0 +1,39 @@
+C:\Dev\Service sample\Code\bin\Debug\Settings.xml
+C:\Dev\Service sample\Code\bin\Debug\ParserCore.dll
+C:\Dev\Service sample\Code\bin\Debug\ParserCore.pdb
+C:\Dev\Service sample\Code\obj\Debug\ParserCore.dll
+C:\Dev\Service sample\Code\obj\Debug\ParserCore.pdb
+C:\Dev\Service sample\Code\bin\Debug\IParserPlugin.dll
+C:\Dev\Service sample\Code\bin\Debug\IParserPlugin.pdb
+C:\Dev\Service sample\Code\bin\Debug\Plugins\PluginAvito.dll
+C:\Dev\Service sample\Code\bin\Debug\Plugins\PluginAvito.pdb
+C:\Dev\Service sample\Code\bin\Debug\Plugins\PluginCraigslist.dll
+C:\Dev\Service sample\Code\bin\Debug\Plugins\PluginCraigslist.pdb
+C:\Dev\Service sample\Code\bin\Debug\Plugins\PluginKijiji.dll
+C:\Dev\Service sample\Code\bin\Debug\Plugins\PluginKijiji.pdb
+C:\Dev\Service sample\Code\bin\Debug\ParserCore.dll.config
+C:\Dev\Service sample\Code\bin\Debug\EntityFramework.dll
+C:\Dev\Service sample\Code\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dev\Service sample\Code\bin\Debug\EntityFramework.xml
+C:\Dev\Service sample\Code\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dev\Service sample\Code\obj\Debug\ParserCore.csprojResolveAssemblyReference.cache
+C:\Dev\2016.01.31 Service Sample\Code\bin\Debug\Plugins\PluginAvito.dll
+C:\Dev\2016.01.31 Service Sample\Code\bin\Debug\Plugins\PluginAvito.pdb
+C:\Dev\2016.01.31 Service Sample\Code\bin\Debug\Plugins\PluginCraigslist.dll
+C:\Dev\2016.01.31 Service Sample\Code\bin\Debug\Plugins\PluginCraigslist.pdb
+C:\Dev\2016.01.31 Service Sample\Code\bin\Debug\Plugins\PluginKijiji.dll
+C:\Dev\2016.01.31 Service Sample\Code\bin\Debug\Plugins\PluginKijiji.pdb
+C:\Dev\2016.01.31 Service Sample\Code\bin\Debug\Settings.xml
+C:\Dev\2016.01.31 Service Sample\Code\bin\Debug\ParserCore.dll.config
+C:\Dev\2016.01.31 Service Sample\Code\bin\Debug\ParserCore.dll
+C:\Dev\2016.01.31 Service Sample\Code\bin\Debug\ParserCore.pdb
+C:\Dev\2016.01.31 Service Sample\Code\bin\Debug\CoreElements.dll
+C:\Dev\2016.01.31 Service Sample\Code\bin\Debug\EntityFramework.dll
+C:\Dev\2016.01.31 Service Sample\Code\bin\Debug\EntityFramework.SqlServer.dll
+C:\Dev\2016.01.31 Service Sample\Code\bin\Debug\CoreElements.pdb
+C:\Dev\2016.01.31 Service Sample\Code\bin\Debug\CoreElements.xml
+C:\Dev\2016.01.31 Service Sample\Code\bin\Debug\EntityFramework.xml
+C:\Dev\2016.01.31 Service Sample\Code\bin\Debug\EntityFramework.SqlServer.xml
+C:\Dev\2016.01.31 Service Sample\Code\obj\Debug\ParserCore.dll
+C:\Dev\2016.01.31 Service Sample\Code\obj\Debug\ParserCore.pdb
+C:\Dev\2016.01.31 Service Sample\Code\obj\Debug\ParserCore.csprojResolveAssemblyReference.cache

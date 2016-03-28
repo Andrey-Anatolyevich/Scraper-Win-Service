@@ -1,0 +1,1101 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CoreElements</name>
+    </assembly>
+    <members>
+        <member name="F:CoreElements.CurrencyCodes.AED">
+            <summary>
+            United Arab Emirates Dirham
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.AFN">
+            <summary>
+             Afghanistan Afghani
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.ALL">
+            <summary>
+            Albania Lek
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.AMD">
+            <summary>
+            Armenia Dram
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.ANG">
+            <summary>
+            Netherlands Antilles Guilder
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.AOA">
+            <summary>
+            Angola Kwanza
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.ARS">
+            <summary>
+            Argentina Peso
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.AUD">
+            <summary>
+            Australia Dollar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.AWG">
+            <summary>
+            Aruba Guilder
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.AZN">
+            <summary>
+            Azerbaijan New Manat
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.BAM">
+            <summary>
+            Bosnia and Herzegovina Convertible Marka
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.BBD">
+            <summary>
+            Barbados Dollar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.BDT">
+            <summary>
+            Bangladesh Taka
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.BGN">
+            <summary>
+            Bulgaria Lev
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.BHD">
+            <summary>
+            Bahrain Dinar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.BIF">
+            <summary>
+            Burundi Franc
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.BMD">
+            <summary>
+            Bermuda Dollar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.BND">
+            <summary>
+            Brunei Darussalam Dollar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.BOB">
+            <summary>
+            Bolivia Boliviano
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.BRL">
+            <summary>
+            Brazil Real
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.BSD">
+            <summary>
+            Bahamas Dollar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.BTN">
+            <summary>
+            Bhutan Ngultrum
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.BWP">
+            <summary>
+            Botswana Pula
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.BYR">
+            <summary>
+            Belarus Ruble
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.BZD">
+            <summary>
+            Belize Dollar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.CAD">
+            <summary>
+            Canada Dollar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.CDF">
+            <summary>
+            Congo/Kinshasa Franc
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.CHF">
+            <summary>
+            Switzerland Franc
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.CLP">
+            <summary>
+            Chile Peso
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.CNY">
+            <summary>
+            China Yuan Renminbi
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.COP">
+            <summary>
+            Colombia Peso
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.CRC">
+            <summary>
+            Costa Rica Colon
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.CUC">
+            <summary>
+            Cuba Convertible Peso
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.CUP">
+            <summary>
+            Cuba Peso
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.CVE">
+            <summary>
+            Cape Verde Escudo
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.CZK">
+            <summary>
+            Czech Republic Koruna
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.DJF">
+            <summary>
+            Djibouti Franc
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.DKK">
+            <summary>
+            Denmark Krone
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.DOP">
+            <summary>
+            Dominican Republic Peso
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.DZD">
+            <summary>
+            Algeria Dinar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.EGP">
+            <summary>
+            Egypt Pound
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.ERN">
+            <summary>
+            Eritrea Nakfa
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.ETB">
+            <summary>
+            Ethiopia Birr
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.EUR">
+            <summary>
+            Euro Member Countries
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.FJD">
+            <summary>
+            Fiji Dollar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.FKP">
+            <summary>
+            Falkland Islands (Malvinas) Pound
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.GBP">
+            <summary>
+            United Kingdom Pound
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.GEL">
+            <summary>
+            Georgia Lari
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.GGP">
+            <summary>
+            Guernsey Pound
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.GHS">
+            <summary>
+            Ghana Cedi
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.GIP">
+            <summary>
+            Gibraltar Pound
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.GMD">
+            <summary>
+            Gambia Dalasi
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.GNF">
+            <summary>
+            Guinea Franc
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.GTQ">
+            <summary>
+            Guatemala Quetzal
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.GYD">
+            <summary>
+            Guyana Dollar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.HKD">
+            <summary>
+            Hong Kong Dollar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.HNL">
+            <summary>
+            Honduras Lempira
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.HRK">
+            <summary>
+            Croatia Kuna
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.HTG">
+            <summary>
+            Haiti Gourde
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.HUF">
+            <summary>
+            Hungary Forint
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.IDR">
+            <summary>
+            Indonesia Rupiah
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.ILS">
+            <summary>
+            Israel Shekel
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.IMP">
+            <summary>
+            Isle of Man Pound
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.INR">
+            <summary>
+            India Rupee
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.IQD">
+            <summary>
+            Iraq Dinar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.IRR">
+            <summary>
+            Iran Rial
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.ISK">
+            <summary>
+            Iceland Krona
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.JEP">
+            <summary>
+            Jersey Pound
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.JMD">
+            <summary>
+            Jamaica Dollar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.JOD">
+            <summary>
+            Jordan Dinar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.JPY">
+            <summary>
+            Japan Yen
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.KES">
+            <summary>
+            Kenya Shilling
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.KGS">
+            <summary>
+            Kyrgyzstan Som
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.KHR">
+            <summary>
+            Cambodia Riel
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.KMF">
+            <summary>
+            Comoros Franc
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.KPW">
+            <summary>
+            Korea (North) Won
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.KRW">
+            <summary>
+            Korea (South) Won
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.KWD">
+            <summary>
+            Kuwait Dinar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.KYD">
+            <summary>
+            Cayman Islands Dollar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.KZT">
+            <summary>
+            Kazakhstan Tenge
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.LAK">
+            <summary>
+            Laos Kip
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.LBP">
+            <summary>
+            Lebanon Pound
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.LKR">
+            <summary>
+            Sri Lanka Rupee
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.LRD">
+            <summary>
+            Liberia Dollar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.LSL">
+            <summary>
+            Lesotho Loti
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.LYD">
+            <summary>
+            Libya Dinar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.MAD">
+            <summary>
+            Morocco Dirham
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.MDL">
+            <summary>
+            Moldova Leu
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.MGA">
+            <summary>
+            Madagascar Ariary
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.MKD">
+            <summary>
+            Macedonia Denar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.MMK">
+            <summary>
+            Myanmar (Burma) Kyat
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.MNT">
+            <summary>
+            Mongolia Tughrik
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.MOP">
+            <summary>
+            Macau Pataca
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.MRO">
+            <summary>
+            Mauritania Ouguiya
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.MUR">
+            <summary>
+            Mauritius Rupee
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.MVR">
+            <summary>
+            Maldives (Maldive Islands) Rufiyaa
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.MWK">
+            <summary>
+            Malawi Kwacha
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.MXN">
+            <summary>
+            Mexico Peso
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.MYR">
+            <summary>
+            Malaysia Ringgit
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.MZN">
+            <summary>
+            Mozambique Metical
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.NAD">
+            <summary>
+            Namibia Dollar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.NGN">
+            <summary>
+            Nigeria Naira
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.NIO">
+            <summary>
+            Nicaragua Cordoba
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.NOK">
+            <summary>
+            Norway Krone
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.NPR">
+            <summary>
+            Nepal Rupee
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.NZD">
+            <summary>
+            New Zealand Dollar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.OMR">
+            <summary>
+            Oman Rial
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.PAB">
+            <summary>
+            Panama Balboa
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.PEN">
+            <summary>
+            Peru Nuevo Sol
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.PGK">
+            <summary>
+            Papua New Guinea Kina
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.PHP">
+            <summary>
+            Philippines Peso
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.PKR">
+            <summary>
+            Pakistan Rupee
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.PLN">
+            <summary>
+            Poland Zloty
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.PYG">
+            <summary>
+            Paraguay Guarani
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.QAR">
+            <summary>
+            Qatar Riyal
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.RON">
+            <summary>
+            Romania New Leu
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.RSD">
+            <summary>
+            Serbia Dinar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.RUB">
+            <summary>
+            Russia Ruble
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.RWF">
+            <summary>
+            Rwanda Franc
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.SAR">
+            <summary>
+            Saudi Arabia Riyal
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.SBD">
+            <summary>
+            Solomon Islands Dollar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.SCR">
+            <summary>
+            Seychelles Rupee
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.SDG">
+            <summary>
+            Sudan Pound
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.SEK">
+            <summary>
+            Sweden Krona
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.SGD">
+            <summary>
+            Singapore Dollar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.SHP">
+            <summary>
+            Saint Helena Pound
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.SLL">
+            <summary>
+            Sierra Leone Leone
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.SOS">
+            <summary>
+            Somalia Shilling
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.SPL">
+            <summary>
+            Seborga Luigino
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.SRD">
+            <summary>
+            Suriname Dollar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.STD">
+            <summary>
+            São Tomé and Príncipe Dobra
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.SVC">
+            <summary>
+            El Salvador Colon
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.SYP">
+            <summary>
+            Syria Pound
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.SZL">
+            <summary>
+            Swaziland Lilangeni
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.THB">
+            <summary>
+            Thailand Baht
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.TJS">
+            <summary>
+            Tajikistan Somoni
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.TMT">
+            <summary>
+            Turkmenistan Manat
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.TND">
+            <summary>
+            Tunisia Dinar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.TOP">
+            <summary>
+            Tonga Pa'anga
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.TRY">
+            <summary>
+            Turkey Lira
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.TTD">
+            <summary>
+            Trinidad and Tobago Dollar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.TVD">
+            <summary>
+            Tuvalu Dollar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.TWD">
+            <summary>
+            Taiwan New Dollar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.TZS">
+            <summary>
+            Tanzania Shilling
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.UAH">
+            <summary>
+            Ukraine Hryvnia
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.UGX">
+            <summary>
+            Uganda Shilling
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.USD">
+            <summary>
+            United States Dollar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.UYU">
+            <summary>
+            Uruguay Peso
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.UZS">
+            <summary>
+            Uzbekistan Som
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.VEF">
+            <summary>
+            Venezuela Bolivar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.VND">
+            <summary>
+            Viet Nam Dong
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.VUV">
+            <summary>
+            Vanuatu Vatu
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.WST">
+            <summary>
+            Samoa Tala
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.XAF">
+            <summary>
+            Communauté Financière Africaine (BEAC) CFA Franc BEAC
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.XCD">
+            <summary>
+            East Caribbean Dollar
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.XDR">
+            <summary>
+            International Monetary Fund (IMF) Special Drawing Rights
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.XOF">
+            <summary>
+            Communauté Financière Africaine (BCEAO) Franc
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.XPF">
+            <summary>
+            Comptoirs Français du Pacifique (CFP) Franc
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.YER">
+            <summary>
+            Yemen Rial
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.ZAR">
+            <summary>
+            South Africa Rand
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.ZMW">
+            <summary>
+            Zambia Kwacha
+            </summary>
+        </member>
+        <member name="F:CoreElements.CurrencyCodes.ZWD">
+            <summary>
+            Zimbabwe Dollar
+            </summary>
+        </member>
+        <member name="T:CoreElements.Detail">
+            <summary>
+            Implementatioin of unit details
+            </summary>
+        </member>
+        <member name="P:CoreElements.Detail.Content">
+            <summary>
+            Content of the unit
+            </summary>
+        </member>
+        <member name="P:CoreElements.Detail.CurrencyCode">
+            <summary>
+            Currency code of the price
+            </summary>
+        </member>
+        <member name="P:CoreElements.Detail.ID">
+            <summary>
+            Database ID
+            </summary>
+        </member>
+        <member name="P:CoreElements.Detail.IsMailed">
+            <summary>
+            this item is mailed
+            </summary>
+        </member>
+        <member name="P:CoreElements.Detail.IsParsed">
+            <summary>
+            This unit is parsed
+            </summary>
+        </member>
+        <member name="P:CoreElements.Detail.Lattitude">
+            <summary>
+            Lattitude of the unit
+            </summary>
+        </member>
+        <member name="P:CoreElements.Detail.Longitude">
+            <summary>
+            Longitude of the unit
+            </summary>
+        </member>
+        <member name="P:CoreElements.Detail.PictureUrls">
+            <summary>
+            List of unit picures URLs
+            </summary>
+        </member>
+        <member name="P:CoreElements.Detail.Price">
+            <summary>
+            Price of the unit
+            </summary>
+        </member>
+        <member name="P:CoreElements.Detail.PublishDT">
+            <summary>
+            DateTime the unit is posted
+            </summary>
+        </member>
+        <member name="P:CoreElements.Detail.Title">
+            <summary>
+            Title of the unit
+            </summary>
+        </member>
+        <member name="P:CoreElements.Detail.Url">
+            <summary>
+            URL of the unit
+            </summary>
+        </member>
+        <member name="P:CoreElements.Detail.UrlParent">
+            <summary>
+            URL at which the link to the unit is found
+            </summary>
+        </member>
+        <member name="P:CoreElements.Detail.WebID">
+            <summary>
+            website ID of the unit
+            </summary>
+        </member>
+        <member name="M:CoreElements.Detail.#ctor">
+            <summary>
+            Constructor
+            </summary>
+        </member>
+        <member name="T:CoreElements.DetailShort">
+            <summary>
+            Unit with short list of details out of the item
+            </summary>
+        </member>
+        <member name="P:CoreElements.DetailShort.CurrencyCode">
+            <summary>
+            Currency code of the unit
+            </summary>
+        </member>
+        <member name="P:CoreElements.DetailShort.ID">
+            <summary>
+            Database ID of the unit
+            </summary>
+        </member>
+        <member name="P:CoreElements.DetailShort.IsParsed">
+            <summary>
+            This unit is parsed
+            </summary>
+        </member>
+        <member name="P:CoreElements.DetailShort.Price">
+            <summary>
+            Price of the unit
+            </summary>
+        </member>
+        <member name="P:CoreElements.DetailShort.PublishDT">
+            <summary>
+            Posting datetime
+            </summary>
+        </member>
+        <member name="P:CoreElements.DetailShort.Title">
+            <summary>
+            Title of the unit
+            </summary>
+        </member>
+        <member name="P:CoreElements.DetailShort.Url">
+            <summary>
+            Url of unit details
+            </summary>
+        </member>
+        <member name="P:CoreElements.DetailShort.UrlParent">
+            <summary>
+            URL of the page where this unit is found
+            </summary>
+        </member>
+        <member name="P:CoreElements.DetailShort.WebID">
+            <summary>
+            ID of the unit at the web-site
+            </summary>
+        </member>
+        <member name="T:CoreElements.IParserPlugin">
+            <summary>
+            Interface of the parser plugin
+            </summary>
+        </member>
+        <member name="M:CoreElements.IParserPlugin.GetLinksFromListPage(System.String,System.String)">
+            <summary>
+            Get list of links with short details from a page with list of links to details pages
+            </summary>
+            <param name="html">Raw HTML of the page to parse</param>
+            <param name="OriginalURL">The URL where the HTML is received from</param>
+            <returns>List of links with short details</returns>
+        </member>
+        <member name="M:CoreElements.IParserPlugin.GetUnitDetailsFromHtml(CoreElements.IDetailShort,System.String)">
+            <summary>
+            Get unit details from html received from the page with unit details
+            </summary>
+            <param name="listUnit">Original link item from which the link is requested for html</param>
+            <param name="html">Html of the page to parse</param>
+            <returns></returns>
+        </member>
+        <member name="M:CoreElements.IParserPlugin.CanProcessDomain(System.String)">
+            <summary>
+            Check if this plugin can perform operations over domain responses
+            </summary>
+            <param name="url">Url over which this pluggin is checked for ability to perform parsing</param>
+            <returns>You can use this plugin for provided url</returns>
+        </member>
+        <member name="T:CoreElements.IDetail">
+            <summary>
+            Interface for unit detailes taken from unit details page
+            </summary>
+        </member>
+        <member name="P:CoreElements.IDetail.ID">
+            <summary>
+            Database ID of the item
+            </summary>
+        </member>
+        <member name="P:CoreElements.IDetail.WebID">
+            <summary>
+            Website Add ID
+            </summary>
+        </member>
+        <member name="P:CoreElements.IDetail.UrlParent">
+            <summary>
+            The URL with list of links to details
+            </summary>
+        </member>
+        <member name="P:CoreElements.IDetail.Url">
+            <summary>
+            Current item URL
+            </summary>
+        </member>
+        <member name="P:CoreElements.IDetail.Title">
+            <summary>
+            Title of the unit
+            </summary>
+        </member>
+        <member name="P:CoreElements.IDetail.PublishDT">
+            <summary>
+            Date and time when the item is posted online
+            </summary>
+        </member>
+        <member name="P:CoreElements.IDetail.PictureUrls">
+            <summary>
+            List of links to images of the add
+            </summary>
+        </member>
+        <member name="P:CoreElements.IDetail.Price">
+            <summary>
+            The price of the unit
+            </summary>
+        </member>
+        <member name="P:CoreElements.IDetail.CurrencyCode">
+            <summary>
+            Currency code of the price
+            </summary>
+        </member>
+        <member name="P:CoreElements.IDetail.Content">
+            <summary>
+            Content of the add
+            </summary>
+        </member>
+        <member name="P:CoreElements.IDetail.Lattitude">
+            <summary>
+            Lattitude of the unit
+            </summary>
+        </member>
+        <member name="P:CoreElements.IDetail.Longitude">
+            <summary>
+            Longitude of the unit
+            </summary>
+        </member>
+        <member name="P:CoreElements.IDetail.IsParsed">
+            <summary>
+            This unit is processed by details parser
+            </summary>
+        </member>
+        <member name="P:CoreElements.IDetail.IsMailed">
+            <summary>
+            this item is mailed
+            </summary>
+        </member>
+        <member name="T:CoreElements.IDetailShort">
+            <summary>
+            Shot unit details received from page with list of items
+            </summary>
+        </member>
+        <member name="P:CoreElements.IDetailShort.ID">
+            <summary>
+            Database ID of the unit
+            </summary>
+        </member>
+        <member name="P:CoreElements.IDetailShort.WebID">
+            <summary>
+            Website ID of the unit
+            </summary>
+        </member>
+        <member name="P:CoreElements.IDetailShort.UrlParent">
+            <summary>
+            The URL with list of links to details
+            </summary>
+        </member>
+        <member name="P:CoreElements.IDetailShort.Url">
+            <summary>
+            Current item URL
+            </summary>
+        </member>
+        <member name="P:CoreElements.IDetailShort.Price">
+            <summary>
+            Price of the Unit
+            </summary>
+        </member>
+        <member name="P:CoreElements.IDetailShort.CurrencyCode">
+            <summary>
+            Currency code of the price
+            </summary>
+        </member>
+        <member name="P:CoreElements.IDetailShort.Title">
+            <summary>
+            Title of the posting
+            </summary>
+        </member>
+        <member name="P:CoreElements.IDetailShort.PublishDT">
+            <summary>
+            Date and time when the item is posted online
+            </summary>
+        </member>
+        <member name="P:CoreElements.IDetailShort.IsParsed">
+            <summary>
+            This unit is processed by details parser
+            </summary>
+        </member>
+    </members>
+</doc>

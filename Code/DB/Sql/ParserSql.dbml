@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Parser" Class="ParserSqlDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(local);Initial Catalog=Parser;Integrated Security=True" SettingsObjectName="ParserCore.Properties.Settings" SettingsPropertyName="ParserConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Images" Member="Images">
+    <Type Name="Image">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="AddID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Url" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="InsertDt" Type="System.DateTime" DbType="DateTime2 NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDt" Type="System.DateTime" DbType="DateTime2" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Adds" Member="Adds">
+    <Type Name="Add">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="UrlParent" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Url" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="AddID" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Title" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Text" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="IsProcessed" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="IsMailed" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="InsertDt" Type="System.DateTime" DbType="DateTime2" CanBeNull="true" />
+      <Column Name="UpdateDt" Type="System.DateTime" DbType="DateTime2" CanBeNull="true" />
+      <Column Name="Price" Type="System.Double" DbType="Float" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Function Name="dbo.GetFilteredUnshippedAdds" Method="GetFilteredUnshippedAdds">
+    <Parameter Name="priceMin" Type="System.Int32" DbType="Int" />
+    <Parameter Name="priceMax" Type="System.Int32" DbType="Int" />
+    <Parameter Name="urlOriginal" Type="System.String" DbType="NVarChar(MAX)" />
+    <Parameter Name="constraints" Type="System.String" DbType="NVarChar(MAX)" />
+    <Parameter Name="keyWords" Type="System.String" DbType="NVarChar(MAX)" />
+    <Parameter Name="onlyWithPictures" Type="System.Boolean" DbType="Bit" />
+    <ElementType Name="GetFilteredUnshippedAddsResult">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="UrlParent" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Url" Type="System.String" DbType="NVarChar(MAX) NOT NULL" CanBeNull="false" />
+      <Column Name="AddID" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Title" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Text" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="IsProcessed" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="IsMailed" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="InsertDt" Type="System.DateTime" DbType="DateTime2" CanBeNull="true" />
+      <Column Name="UpdateDt" Type="System.DateTime" DbType="DateTime2" CanBeNull="true" />
+      <Column Name="Price" Type="System.Double" DbType="Float" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.AddEmailSetting" Method="AddEmailSetting">
+    <Parameter Name="SmtpHostName" Parameter="smtpHostName" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="SmtpPort" Parameter="smtpPort" Type="System.Int32" DbType="Int" />
+    <Parameter Name="SSLEnabled" Parameter="sSLEnabled" Type="System.Boolean" DbType="Bit" />
+    <Parameter Name="AccountLogin" Parameter="accountLogin" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="AccountPassCrypted" Parameter="accountPassCrypted" Type="System.String" DbType="NVarChar(50)" />
+    <Parameter Name="AccountPassSalt" Parameter="accountPassSalt" Type="System.String" DbType="NVarChar(250)" />
+    <Parameter Name="TargetEmailFrom" Parameter="targetEmailFrom" Type="System.String" DbType="NVarChar(100)" />
+    <Parameter Name="TargetEmailTo" Parameter="targetEmailTo" Type="System.String" DbType="NVarChar(100)" />
+    <Parameter Name="EmailTitle" Parameter="emailTitle" Type="System.String" DbType="NVarChar(200)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.GetMailSettingByID" Method="GetMailSettingByID">
+    <Parameter Name="id" Type="System.Int32" DbType="Int" />
+    <ElementType Name="GetMailSettingByIDResult">
+      <Column Name="SmtpHostName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="SmtpPort" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="SSLEnabled" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="AccountLogin" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="AccountPassCrypted" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="AccountPassSalt" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="TargetEmailFrom" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="TargetEmailTo" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="EmailTitle" Type="System.String" DbType="NVarChar(200) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.GetMailSettings" Method="GetMailSettings">
+    <Parameter Name="from" Type="System.Int32" DbType="Int" />
+    <Parameter Name="to" Type="System.Int32" DbType="Int" />
+    <ElementType Name="GetMailSettingsResult">
+      <Column Name="SmtpHostName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="SmtpPort" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="SSLEnabled" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="AccountLogin" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="AccountPassCrypted" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="AccountPassSalt" Type="System.String" DbType="NVarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="TargetEmailFrom" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="TargetEmailTo" Type="System.String" DbType="NVarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="EmailTitle" Type="System.String" DbType="NVarChar(200) NOT NULL" CanBeNull="false" />
+    </ElementType>
+  </Function>
+</Database>

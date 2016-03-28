@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ParserModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Adds">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UrlParent" Type="nvarchar(max)" />
+    <Property Name="Url" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="AddID" Type="nvarchar(max)" />
+    <Property Name="Title" Type="nvarchar(max)" />
+    <Property Name="Text" Type="nvarchar(max)" />
+    <Property Name="IsProcessed" Type="bit" />
+    <Property Name="IsMailed" Type="bit" />
+    <Property Name="Price" Type="int" />
+    <Property Name="InsertDt" Type="datetime2" Precision="7" />
+    <Property Name="UpdateDt" Type="datetime2" Precision="7" />
+  </EntityType>
+  <EntityType Name="Images">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AddID" Type="int" Nullable="false" />
+    <Property Name="Url" Type="int" Nullable="false" />
+    <Property Name="InsertDt" Type="datetime2" Precision="7" />
+    <Property Name="UpdateDt" Type="datetime2" Precision="7" />
+  </EntityType>
+  <EntityContainer Name="ParserModelStoreContainer">
+    <EntitySet Name="Adds" EntityType="Self.Adds" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Images" EntityType="Self.Images" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

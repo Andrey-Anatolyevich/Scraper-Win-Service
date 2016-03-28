@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettGreatUnit xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EmailSettings>
+    <SmtpHostName>smtp.gmail.com</SmtpHostName>
+    <SmtpPort>587</SmtpPort>
+    <EnableSSL>true</EnableSSL>
+    <Login></Login>
+    <Password></Password>
+    <TargetEmailFrom>cccpmade@gmail.com</TargetEmailFrom>
+    <TargetEmail>cccpmade@gmail.com</TargetEmail>
+    <EmailTitle>Новое с АВИТО</EmailTitle>
+  </EmailSettings>
+  <SectionsList>
+    <Section>
+      <LastSectionUrlRequest>0001-01-01T00:00:00</LastSectionUrlRequest>
+      <Name>Мониторы</Name>
+      <Url>https://www.avito.ru/moskva/tovary_dlya_kompyutera/monitory?bt=1&amp;user=1</Url>
+      <SleepDelaySeconds>900</SleepDelaySeconds>
+      <FrequencyWebRequestMSeconds>2000</FrequencyWebRequestMSeconds>
+      <IsEnabled>false</IsEnabled>
+      <FrequencyEmailSeconds>900</FrequencyEmailSeconds>
+      <LastEmailDT>0001-01-01T00:00:00</LastEmailDT>
+      <InterestList>
+        <Interest>
+          <Name>IPS 4.5-15</Name>
+          <PriceMin>4500</PriceMin>
+          <PriceMax>15000</PriceMax>
+          <OnlyWithPictures>true</OnlyWithPictures>
+          <IsEnabled>true</IsEnabled>
+          <ConstraintsList>
+            <string>21.5</string>
+            <string>1280</string>
+            <string>1680</string>
+            <string>tft tn</string>
+            <string>tft-tn</string>
+            <string>20"</string>
+            <string>20'</string>
+          </ConstraintsList>
+          <KeyWords>
+            <string>ips</string>
+            <string>1920</string>
+            <string>2540</string>
+          </KeyWords>
+        </Interest>
+      </InterestList>
+    </Section>
+    <Section>
+      <LastSectionUrlRequest>0001-01-01T00:00:00</LastSectionUrlRequest>
+      <Name>Asus essence one</Name>
+      <Url>https://www.avito.ru/moskva/tovary_dlya_kompyutera/komplektuyuschie/zvukovye_karty?bt=1&amp;user=1</Url>
+      <SleepDelaySeconds>900</SleepDelaySeconds>
+      <FrequencyWebRequestMSeconds>2000</FrequencyWebRequestMSeconds>
+      <IsEnabled>true</IsEnabled>
+      <FrequencyEmailSeconds>900</FrequencyEmailSeconds>
+      <LastEmailDT>0001-01-01T00:00:00</LastEmailDT>
+      <InterestList>
+        <Interest>
+          <Name>Essence one 5-25</Name>
+          <PriceMin>5000</PriceMin>
+          <PriceMax>25000</PriceMax>
+          <OnlyWithPictures>false</OnlyWithPictures>
+          <IsEnabled>true</IsEnabled>
+          <ConstraintsList>
+            <string>pci</string>
+            <string>stx</string>
+            <string>st/a</string>
+			<string>stu</string>
+			<stirng>soundblaster</stirng>
+			<string>m-audio</string>
+			<string>maudio</string>
+          </ConstraintsList>
+          <KeyWords />
+        </Interest>
+      </InterestList>
+    </Section>
+  </SectionsList>
+</SettGreatUnit>

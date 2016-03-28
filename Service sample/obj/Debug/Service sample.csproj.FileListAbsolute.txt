@@ -1,0 +1,18 @@
+C:\Dev\Service sample\Service sample\bin\Debug\Settings.xml
+C:\Dev\Service sample\Service sample\bin\Debug\App.config
+C:\Dev\Service sample\Service sample\bin\Debug\Service sample.exe.config
+C:\Dev\Service sample\Service sample\bin\Debug\Service sample.exe
+C:\Dev\Service sample\Service sample\bin\Debug\Service sample.pdb
+C:\Dev\Service sample\Service sample\bin\Debug\ParserCore.dll
+C:\Dev\Service sample\Service sample\bin\Debug\IParserPlugin.dll
+C:\Dev\Service sample\Service sample\bin\Debug\ParserCore.pdb
+C:\Dev\Service sample\Service sample\bin\Debug\IParserPlugin.pdb
+C:\Dev\Service sample\Service sample\obj\Debug\Service sample.csprojResolveAssemblyReference.cache
+C:\Dev\Service sample\Service sample\obj\Debug\Service sample.exe
+C:\Dev\Service sample\Service sample\obj\Debug\Service sample.pdb
+C:\Dev\Service sample\Service sample\bin\Debug\Plugins\PluginAvito.dll
+C:\Dev\Service sample\Service sample\bin\Debug\Plugins\PluginAvito.pdb
+C:\Dev\Service sample\Service sample\bin\Debug\Plugins\PluginCraigslist.dll
+C:\Dev\Service sample\Service sample\bin\Debug\Plugins\PluginCraigslist.pdb
+C:\Dev\Service sample\Service sample\bin\Debug\Plugins\PluginKijiji.dll
+C:\Dev\Service sample\Service sample\bin\Debug\Plugins\PluginKijiji.pdb
